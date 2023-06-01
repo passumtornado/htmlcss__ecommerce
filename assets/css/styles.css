@@ -11,3 +11,11 @@ body {
 a {
     text-decoration: none;
 }
+h3{
+font-weight: 300;
+font-size: 20px;
+line-height: 25px;
+color: #000000;
+text-align: center;
+width: 50%;
+}
